@@ -1,6 +1,8 @@
-## [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [Redux](https://redux.js.org/) + [TS](https://www.typescriptlang.org/) boilerplate
+## [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [Redux](https://redux.js.org/) +
+[TS](https://www.typescriptlang.org/) boilerplate
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c95d444-98af-4449-b67f-8d63cbce2135/deploy-status)](https://app.netlify.com/sites/vite-react-redux-ts-boilerplate/deploys)
+[![Netlify
+Status](https://api.netlify.com/api/v1/badges/9c95d444-98af-4449-b67f-8d63cbce2135/deploy-status)](https://app.netlify.com/sites/vite-react-redux-ts-boilerplate/deploys)
 
 This setup includes:
 * [Vite](https://vitejs.dev/)
@@ -13,7 +15,4 @@ This setup includes:
 * [MUI/](https://mui.com/)
 
 # References
-
-* https://markus.oberlehner.net/blog/using-testing-library-jest-dom-with-vitest/
-* https://testing-library.com/docs/queries/about#priority
-* https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
+* [RTK tutorials RTK query](https://redux-toolkit.js.org/tutorials/rtk-query)
