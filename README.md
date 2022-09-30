@@ -1,5 +1,4 @@
-# [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [Redux](https://redux.js.org/) +
-[TS](https://www.typescriptlang.org/) Pokémon
+# [Vite](https://vitejs.dev/) + [React](https://reactjs.org/) + [Redux](https://redux.js.org/) + [TS](https://www.typescriptlang.org/) Pokémon
 
 [![Netlify
 Status](https://api.netlify.com/api/v1/badges/9c95d444-98af-4449-b67f-8d63cbce2135/deploy-status)](https://app.netlify.com/sites/vite-react-redux-ts-boilerplate/deploys)
@@ -16,7 +15,8 @@ This setup includes:
 * [MUI/](https://mui.com/)
 
 ## References
-* [RTK tutorials RTK query](https://redux-toolkit.js.org/tutorials/rtk-query)* [RTK tutorials RTK
+* [RTK tutorials RTK query](https://redux-toolkit.js.org/tutorials/rtk-query)
+* [RTK tutorials RTK
 query](https://redux-toolkit.js.org/tutorials/rtk-query)
 
 ## API
