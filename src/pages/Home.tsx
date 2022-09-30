@@ -10,7 +10,6 @@ function Home() {
   // Individual hooks are also accessible under the generated endpoints:
   // const { data, error, isLoading } = pokemonApi.endpoints.getPokemonByName.useQuery('bulbasaur')
 
-
   return (
     <>
       <Typography color="primary.dark" variant="h1">
