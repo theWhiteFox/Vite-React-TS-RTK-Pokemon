@@ -5,7 +5,7 @@ import { routes as appRoutes } from "./routes";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
-export default function App() {
+export function App() {
 
   // define theme
   const theme = createTheme({
