@@ -10,6 +10,7 @@ import {
     Typography,
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
+import GitHubIcon from '@mui/icons-material/GitHub';
 import { routes } from "../routes";
 import { NavLink } from "react-router-dom";
 
@@ -95,8 +96,16 @@ const Navbar: FC = (): ReactElement => {
                         component="div"
                         sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}
                     >
-                        React Starter App
+                        Pokémon
                     </Typography>
+                    <IconButton
+                        size="large"
+                        aria-label="account of current user"
+                        href="https://github.com/theWhiteFox/Vite-React-TS-RTK-Pokemon"
+                        color="inherit"
+                    >
+                        <GitHubIcon />
+                    </IconButton>
                     <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
                         <Box
                             sx={{
