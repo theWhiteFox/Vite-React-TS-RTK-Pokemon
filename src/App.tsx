@@ -2,12 +2,10 @@ import { Box, Paper, CssBaseline, ThemeProvider } from "@mui/material";
 import { createTheme } from "@mui/material/styles";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { routes as appRoutes } from "./routes";
-import { Provider } from 'react-redux';
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import { store } from './store';
 
-export function App() {
+export default function App() {
 
   // define theme
   const theme = createTheme({
@@ -58,8 +56,6 @@ export function App() {
 
 export function WrappedApp() {
   return (
-    <Provider store={store}>
-      <App />
-    </Provider>
+    <App />
   );
 }
