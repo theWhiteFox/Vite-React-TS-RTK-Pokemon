@@ -15,7 +15,8 @@ This setup includes:
 * [MUI/](https://mui.com/)
 
 ## References
-* [RTK tutorials RTK query](https://redux-toolkit.js.org/tutorials/rtk-query)* [RTK tutorials RTK
+* [RTK tutorials RTK query](https://redux-toolkit.js.org/tutorials/rtk-query)
+* [RTK tutorials RTK
 query](https://redux-toolkit.js.org/tutorials/rtk-query)
 
 ## API
